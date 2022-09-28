@@ -1,0 +1,22 @@
+.body{
+ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.item img{
+    max-width: 28rem;
+    height: 14rem;
+    padding-top: 6rem;
+    pointer-events: none;
+}
+
+.guitarra{
+
+    border-radius: 1rem;
+    padding: 1rem;
+    box-shadow: 2rem 3rem 5rem black;
+    margin: 2rem;
+}
